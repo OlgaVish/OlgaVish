@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/OlgaVish" target="_blank">Olga</a> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CFF76D&center=true&vCenter=true&random=false&width=435&lines=Data+scientist+from+Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=850&color=2CECF7&center=true&vCenter=true&random=false&width=435&lines=Data+scientist+;Looking+for+new+challenges)](https://git.io/typing-svg)
+
 <!--
 **OlgaVish/OlgaVish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
